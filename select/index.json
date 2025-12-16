@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "NO DIRECTION HOME",
+  "base_artist": "171",
+  "createdAt": "2025-12-16T18:09:32.039158Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Direction Home",
+      "artist": "Cheap Trick",
+      "has_synced": true,
+      "path": "select/01_No_Direction_Home_Cheap_Trick.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Direction Home",
+      "artist": "I Am Kloot",
+      "has_synced": false,
+      "path": "select/02_No_Direction_Home_I_Am_Kloot.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Direction Home",
+      "artist": "Mirah",
+      "has_synced": true,
+      "path": "select/03_No_Direction_Home_Mirah.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Direction Home",
+      "artist": "Cheap Trick",
+      "has_synced": true,
+      "path": "select/04_No_Direction_Home_Cheap_Trick.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Direction Home",
+      "artist": "Cheap Trick",
+      "has_synced": true,
+      "path": "select/05_No_Direction_Home_Cheap_Trick.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Direction Home",
+      "artist": "Eldritch",
+      "has_synced": true,
+      "path": "select/06_No_Direction_Home_Eldritch.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Direction Home",
+      "artist": "Laura Sauvage",
+      "has_synced": false,
+      "path": "select/07_No_Direction_Home_Laura_Sauvage.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Song To Woody (The Bootleg Series - Volume 7 - No Direction Home Soundtrack)",
+      "artist": "Dylan, Bob",
+      "has_synced": true,
+      "path": "select/08_Song_To_Woody_(The_Bootleg_Series_-_Volume_7_-_No_Direction_Home_Soundtrack)_Dylan,_Bob.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NO DIRECTION HOME",
+      "artist": "171",
+      "has_synced": false,
+      "path": "select/pl_01_NO_DIRECTION_HOME_171.txt"
+    }
+  ]
+}
